@@ -3,15 +3,7 @@
 	padding:0;
 	margin:0;
 }
-body
-{
-	background-image: url("5.jpg");
-	background-size:120%;
-	background-position: center;
-	box-sizing:border-box;
-	font-family: sans-serif;
-	
-}
+
 .name
 {
 	background-color:red;
@@ -41,7 +33,6 @@ text-align:left;
 }
 .name ul li a
 {
-   background-image: url("h.jpg");
 	text-decoration:none;
 	color:#fff;
 }
